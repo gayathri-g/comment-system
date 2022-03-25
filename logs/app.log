@@ -1,0 +1,90 @@
+[2022-03-09T07:29:17.174556+01:00] slim-app.INFO: Users list was viewed. [] {"uid":"1ffe64b"}
+[2022-03-09T09:45:21.751360+01:00] slim-app.INFO: User of id `4` was viewed. [] {"uid":"c25458a"}
+[2022-03-11T09:06:09.327845+01:00] slim-app.INFO: Comments list was viewed. [] {"uid":"fe5752e"}
+[2022-03-11T09:06:55.268700+01:00] slim-app.INFO: Comments list was viewed. [] {"uid":"6c43cdf"}
+[2022-03-11T10:02:59.723612+01:00] slim-app.INFO: Comments list was viewed. [] {"uid":"33c8bfc"}
+[2022-03-11T10:03:14.695712+01:00] slim-app.INFO: Comments list was viewed. [] {"uid":"387e21a"}
+[2022-03-11T10:05:30.491065+01:00] slim-app.INFO: Comments list was viewed. [] {"uid":"6fcb1be"}
+[2022-03-11T12:12:01.887399+01:00] slim-app.INFO: New Comment Added - Comment ID is `3` [] {"uid":"821a6ef"}
+[2022-03-11T13:06:34.279557+01:00] slim-app.INFO: Updating an comment {"id":"2","data":null} {"uid":"a5ea341"}
+[2022-03-11T13:10:56.448914+01:00] slim-app.INFO: Updating an comment {"id":"2","data":null} {"uid":"d333929"}
+[2022-03-11T13:11:15.584138+01:00] slim-app.INFO: Updating an comment {"id":"2","data":null} {"uid":"68ae641"}
+[2022-03-11T13:12:20.777487+01:00] slim-app.INFO: Updating an comment {"id":"2","data":null} {"uid":"6b3d27d"}
+[2022-03-11T13:12:22.589156+01:00] slim-app.INFO: Updating an comment {"id":"2","data":null} {"uid":"c8ecc13"}
+[2022-03-11T13:13:16.811254+01:00] slim-app.INFO: Updating an comment {"comment_id":null,"data":{"message":"march11"}} {"uid":"2d9d75a"}
+[2022-03-11T13:13:19.790551+01:00] slim-app.INFO: Updating an comment {"comment_id":"2","data":{"comment_id":"2","message":"march11"}} {"uid":"d1dc6db"}
+[2022-03-11T13:13:30.954916+01:00] slim-app.INFO: Updating an comment {"comment_id":"2","data":{"comment_id":"2","message":"march11"}} {"uid":"c250d1c"}
+[2022-03-11T13:13:41.310331+01:00] slim-app.INFO: Updating an comment {"comment_id":"2","data":{"comment_id":"2","message":"march11"}} {"uid":"3f677f1"}
+[2022-03-11T13:13:41.515470+01:00] slim-app.INFO: Comment Updated - Comment ID is `2` [] {"uid":"3f677f1"}
+[2022-03-11T13:23:37.361898+01:00] slim-app.INFO: New Comment Added - Comment ID is `4` [] {"uid":"3d09c8d"}
+[2022-03-11T13:43:53.026016+01:00] slim-app.INFO: Deleteing an comment {"comment_id":"3"} {"uid":"36cc1ad"}
+[2022-03-11T13:45:30.523486+01:00] slim-app.INFO: Comment of id `0` was viewed. [] {"uid":"a4b66c2"}
+[2022-03-11T13:59:48.140195+01:00] slim-app.INFO: Deleteing an comment {"comment_id":"10"} {"uid":"d4eeeff"}
+[2022-03-11T14:01:12.806560+01:00] slim-app.INFO: Deleteing an comment {"comment_id":"10"} {"uid":"0dfbc30"}
+[2022-03-11T14:03:30.749290+01:00] slim-app.INFO: Deleteing an comment {"comment_id":"10"} {"uid":"2b3b877"}
+[2022-03-11T14:07:03.841991+01:00] slim-app.INFO: Deleteing an comment {"comment_id":"10"} {"uid":"ea5d993"}
+[2022-03-11T14:08:30.310307+01:00] slim-app.INFO: Deleteing an comment {"comment_id":10} {"uid":"dc23289"}
+[2022-03-11T14:10:54.033005+01:00] slim-app.INFO: Deleteing an comment {"comment_id":10} {"uid":"b7d55ad"}
+[2022-03-11T14:11:29.717433+01:00] slim-app.INFO: Deleteing an comment {"comment_id":10} {"uid":"4446dc6"}
+[2022-03-11T14:13:53.240943+01:00] slim-app.INFO: Deleteing an comment {"comment_id":4} {"uid":"3f04cf6"}
+[2022-03-11T14:18:31.022762+01:00] slim-app.INFO: New Comment Added - Comment ID is `5` [] {"uid":"0bdacff"}
+[2022-03-11T14:20:17.874238+01:00] slim-app.INFO: Updating an comment {"comment_id":"2","data":{"comment_id":"2","message":"march11ghghgh"}} {"uid":"306ffd1"}
+[2022-03-11T14:20:29.141493+01:00] slim-app.INFO: Updating an comment {"comment_id":"2","data":{"comment_id":"2","message":"march11ghghgh"}} {"uid":"57f2a3e"}
+[2022-03-11T14:20:33.059974+01:00] slim-app.INFO: Updating an comment {"comment_id":"2","data":{"comment_id":"2","message":"march11ghghgh"}} {"uid":"c7a308c"}
+[2022-03-11T14:20:46.721929+01:00] slim-app.INFO: Updating an comment {"comment_id":"2","data":{"comment_id":"2","message":"nasi"}} {"uid":"85d728c"}
+[2022-03-11T14:21:00.496742+01:00] slim-app.INFO: Updating an comment {"comment_id":"2","data":{"comment_id":"2","message":"nasi"}} {"uid":"2978087"}
+[2022-03-11T16:57:51.416202+01:00] slim-app.INFO: Updating an comment {"comment_id":"2","data":{"comment_id":"2","message":"nasi"}} {"uid":"90befc8"}
+[2022-03-14T05:54:25.547791+01:00] slim-app.INFO: Reply list was viewed. [] {"uid":"e41fa0f"}
+[2022-03-14T05:57:53.508919+01:00] slim-app.INFO: New Comment Added - Comment ID is `6` [] {"uid":"0241677"}
+[2022-03-14T05:58:50.428761+01:00] slim-app.INFO: Reply list was viewed. [] {"uid":"d3d5407"}
+[2022-03-14T06:13:56.111741+01:00] slim-app.INFO: Comment of id `1` replies was viewed. [] {"uid":"9c9a58c"}
+[2022-03-14T06:14:47.074834+01:00] slim-app.INFO: New Reply Added - Comment ID is `7` [] {"uid":"abd0d7e"}
+[2022-03-14T06:14:58.970173+01:00] slim-app.INFO: Comment of id `1` replies was viewed. [] {"uid":"f80780f"}
+[2022-03-14T06:16:42.541555+01:00] slim-app.INFO: Comment of id `2` replies was viewed. [] {"uid":"71352b0"}
+[2022-03-14T06:17:01.312954+01:00] slim-app.INFO: Comment of id `2` replies was viewed. [] {"uid":"646681a"}
+[2022-03-14T06:23:07.582793+01:00] slim-app.INFO: New Report Added - Report ID is `1` and Comment ID is `1` [] {"uid":"6e119ad"}
+[2022-03-14T06:23:35.847245+01:00] slim-app.INFO: New Report Added - Report ID is `2` and Comment ID is `2` [] {"uid":"e2e3545"}
+[2022-03-14T06:23:46.155075+01:00] slim-app.INFO: New Report Added - Report ID is `3` and Comment ID is `2` [] {"uid":"2a476c8"}
+[2022-03-14T06:24:14.179047+01:00] slim-app.INFO: New Report Added - Report ID is `4` and Comment ID is `2` [] {"uid":"8f87d7f"}
+[2022-03-14T06:24:15.270504+01:00] slim-app.INFO: New Report Added - Report ID is `5` and Comment ID is `2` [] {"uid":"d9665fd"}
+[2022-03-14T06:24:16.329410+01:00] slim-app.INFO: New Report Added - Report ID is `6` and Comment ID is `2` [] {"uid":"5f0cdca"}
+[2022-03-14T06:24:17.429560+01:00] slim-app.INFO: New Report Added - Report ID is `7` and Comment ID is `2` [] {"uid":"cde626f"}
+[2022-03-14T06:24:27.895620+01:00] slim-app.INFO: New Report Added - Report ID is `8` and Comment ID is `2` [] {"uid":"54e325d"}
+[2022-03-14T06:38:35.950991+01:00] slim-app.INFO: New Report Added - Report ID is `9` and Comment ID is `2` [] {"uid":"182359a"}
+[2022-03-14T06:39:20.723340+01:00] slim-app.INFO: New Report Added - Report ID is `10` and Comment ID is `2` [] {"uid":"90e3f3b"}
+[2022-03-14T06:39:52.479936+01:00] slim-app.INFO: New Report Added - Report ID is `11` and Comment ID is `2` [] {"uid":"9c528c3"}
+[2022-03-14T06:48:24.755658+01:00] slim-app.INFO: Upvote Added - Comment ID is `1` [] {"uid":"131c39f"}
+[2022-03-14T06:57:10.834389+01:00] slim-app.INFO: Upvote Added - Comment ID is `1` [] {"uid":"6d41d62"}
+[2022-03-14T06:57:16.534675+01:00] slim-app.INFO: Upvote Added - Comment ID is `1` [] {"uid":"0f2b13a"}
+[2022-03-14T07:02:02.384345+01:00] slim-app.INFO: Comment of id `1` was viewed. [] {"uid":"743848e"}
+[2022-03-14T07:02:51.823961+01:00] slim-app.INFO: Comment of id `1` was viewed. [] {"uid":"22c7b36"}
+[2022-03-14T07:04:27.301318+01:00] slim-app.INFO: Reply list was viewed. [] {"uid":"37b10c2"}
+[2022-03-14T07:05:09.461656+01:00] slim-app.INFO: Reply list was viewed. [] {"uid":"cff91bb"}
+[2022-03-14T07:12:26.603049+01:00] slim-app.INFO: New Reply Added - Comment ID is `8` [] {"uid":"4516255"}
+[2022-03-14T07:15:02.425204+01:00] slim-app.INFO: Comments list was viewed. [] {"uid":"bf69571"}
+[2022-03-14T07:15:26.527523+01:00] slim-app.INFO: Comments list was viewed. [] {"uid":"8462a08"}
+[2022-03-14T07:15:50.846903+01:00] slim-app.INFO: Comments list was viewed. [] {"uid":"3608afd"}
+[2022-03-14T09:36:30.537247+01:00] slim-app.INFO: Comments list was viewed. [] {"uid":"7f12fd3"}
+[2022-03-14T09:36:56.536801+01:00] slim-app.INFO: Comments list was viewed. [] {"uid":"d9fa111"}
+[2022-03-14T09:39:40.607660+01:00] slim-app.INFO: Comments list was viewed. [] {"uid":"0ed4a9a"}
+[2022-03-14T10:05:43.439122+01:00] slim-app.INFO: Upvote Added - Comment ID is `1` [] {"uid":"2c2c142"}
+[2022-03-14T10:06:14.394120+01:00] slim-app.INFO: Upvote Added - Comment ID is `1` [] {"uid":"b482054"}
+[2022-03-16T13:35:08.701846+01:00] slim-app.INFO: Comments list was viewed. [] {"uid":"bc598e4"}
+[2022-03-16T13:35:52.844685+01:00] slim-app.INFO: Comments list was viewed. [] {"uid":"698ba71"}
+[2022-03-16T13:36:10.168350+01:00] slim-app.INFO: Comments list was viewed. [] {"uid":"a907579"}
+[2022-03-16T13:36:20.475868+01:00] slim-app.INFO: Comments list was viewed. [] {"uid":"8734300"}
+[2022-03-16T13:53:02.348534+01:00] slim-app.INFO: User list was viewed. [] {"uid":"159641f"}
+[2022-03-16T13:53:21.194868+01:00] slim-app.INFO: Comments list was viewed. [] {"uid":"8b87f02"}
+[2022-03-16T13:53:58.017736+01:00] slim-app.INFO: User list was viewed. [] {"uid":"b02965c"}
+[2022-03-16T13:54:00.566403+01:00] slim-app.INFO: Comments list was viewed. [] {"uid":"2662e1a"}
+[2022-03-16T13:54:03.573649+01:00] slim-app.INFO: User list was viewed. [] {"uid":"f5f01eb"}
+[2022-03-16T13:54:48.628359+01:00] slim-app.INFO: user of id `1` was viewed. [] {"uid":"a8d62a0"}
+[2022-03-16T14:13:33.389890+01:00] slim-app.INFO: Upvote Added - Comment ID is `1` [] {"uid":"37d18de"}
+[2022-03-16T14:17:23.208088+01:00] slim-app.INFO: Upvote Added - Comment ID is `1` [] {"uid":"1635136"}
+[2022-03-16T14:19:48.138645+01:00] slim-app.INFO: Upvote Added - Comment ID is `1` [] {"uid":"1420c72"}
+[2022-03-16T14:20:14.870666+01:00] slim-app.INFO: Upvote Added - Comment ID is `1` [] {"uid":"249e984"}
+[2022-03-16T14:20:56.185133+01:00] slim-app.INFO: Upvote Added - Comment ID is `2` [] {"uid":"953db3c"}
+[2022-03-16T14:21:10.747780+01:00] slim-app.INFO: Upvote Added - Comment ID is `8` [] {"uid":"2b3dc71"}
+[2022-03-16T14:22:08.406333+01:00] slim-app.INFO: Upvote Added - Comment ID is `8` [] {"uid":"04f38e1"}
+[2022-03-16T14:22:25.722412+01:00] slim-app.INFO: Upvote Added - Comment ID is `8` [] {"uid":"3b3b92a"}
+[2022-03-16T14:24:28.503197+01:00] slim-app.INFO: Upvote Added - Comment ID is `8` [] {"uid":"eba602d"}
